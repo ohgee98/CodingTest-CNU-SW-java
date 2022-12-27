@@ -9,12 +9,12 @@
 - 12월 2일 (Python)
   - 피보나치 수열 계산
 - 12월 5일 
-  - 최대공약수 구하기
+  - 최대공약수 구하기 -> greatest_common_divisor.java
 - 12월 6일 
-  - 뒤집어도 같은 수
+  - 뒤집어도 같은 수 -> reverse_same.java
 - 12월 7일 
-  - Anagram 판별
+  - Anagram 판별 -> anagram.java
 - 12월 8일 
-  - 회문(Palindrome) 확인
+  - 회문(Palindrome) 확인 -> palindrome.java
 
 ` * ` 12월 9일부터는 python으로 풀이 진행
